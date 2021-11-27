@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ANDROID_MYSQL1</string>
+    <string name="et_Nombre_String">Ingrese un nombre</string>
+    <string name="et_Email_String">Ingrese un email</string>
+    <string name="et_Telefono_String">Ingrese un telefono</string>
+    <string name="et_Pass_String">Ingrese un password</string>
+    <string name="btn_Guardar_String">Guardar</string>
+</resources>
